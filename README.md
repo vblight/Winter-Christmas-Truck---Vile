@@ -18,7 +18,15 @@ Bring a little Christmas cheer to the streets of Los Santos with the **RUNE Piro
 
 Whether you're running Christmas deliveries, a winter event or simply want something festive on your server, this truck is here for the holidays.
 
-> **Preview screenshots:** Real in-game screenshots will be added here. Appearance can vary with graphics and weather settings.
+<div align="center">
+
+![North Yankton and Los Santos Christmas parcel trucks](xmastruck1.png)
+
+*North Yankton and Los Santos — Winter Parcel Service*
+
+</div>
+
+> Screenshots captured in FiveM. Appearance may vary with graphics and weather settings.
 
 ## ✨ Features
 
@@ -86,7 +94,15 @@ rune_pirogm3x/
 
 ## 📸 Screenshots
 
-*Coming soon — actual FiveM screenshots of the truck.*
+### North Yankton & Los Santos
+
+![North Yankton and Los Santos Christmas trucks in daylight](xmastruck1.png)
+
+### The Christmas delivery fleet
+
+![Blaine County, Liberty City and Vice City Christmas trucks in a warehouse](xmastruck2.webp)
+
+*Real in-game FiveM screenshots; lighting and visuals may differ between servers.*
 
 ## ❤️ Credits & support
 
